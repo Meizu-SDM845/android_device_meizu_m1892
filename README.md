@@ -1,7 +1,7 @@
 Device configuration for Meizu 16th Plus
 ==============
 
-The Meizu 16th Plus (codenamed _"M1892"_) are high-end smartphones from Meizu.
+The Meizu 16th Plus (codenamed _"m1892"_) are high-end smartphones from Meizu.
 
 Meizu 16th Plus was announced and released in August 2018.
 
